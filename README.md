@@ -1,4 +1,5 @@
 # 35기 1차 프로젝트 "Magazine K"
+[사이트 방문하기](http://foaflsawsbucket.s3-website.ap-northeast-2.amazonaws.com/)
 
 ## 프로젝트 소개
  Magazine B라는 웹 사이트를 클론코딩하는 프로젝트.
